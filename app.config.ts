@@ -74,7 +74,7 @@ export default defineAppConfig({
   header: {
     banner: {
       show: false,
-      text: "Create your own directory website in minutes.",
+      text: "Add your listing to the directory",
       link: "https://minteddirectory.com",
       brandText: "MintedDirectory",
     },
